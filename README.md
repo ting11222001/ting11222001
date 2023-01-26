@@ -24,9 +24,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ting11222001's streak" src="https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true"/>
-    </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
