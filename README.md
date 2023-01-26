@@ -8,7 +8,7 @@
 </p>
 
 
-<h2>🧰 Languages and Tools</h2>
+&langs_count=8&langs_count=8
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -18,16 +18,15 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
-<br />
-<br />
+#
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="left">
-  <img align="center" alt="ting11222001's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ting11222001&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
-  <img align="center" alt="ting11222001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ting11222001&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+  <img align="left" alt="ting11222001's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ting11222001&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
+  <img align="left" alt="ting11222001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ting11222001&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
 </div>
 
-<br/>
+
 
 
 
