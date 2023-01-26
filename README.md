@@ -7,7 +7,9 @@
   <img width="250" src="https://media.giphy.com/media/2cehsMpM3VxjbBB0TG/giphy.gif">
 </p>
 
-<h2>🧰 Languages and Tools</h2>
+
+<details> 
+  <summary><h2>🧰 Languages and Tools</h2></summary>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -16,8 +18,8 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+</details> 
 
-#
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -25,8 +27,12 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
-
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ting11222001's streak" src="https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
