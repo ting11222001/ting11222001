@@ -1,18 +1,13 @@
 <h1>👑 Li-Ting Liao</h1>
 
-<h4>Hi there 👋  Welcome to my GitHub! 
-
-I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. 
-
-If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻
-</h4>
+<p>Hi there 👋  Welcome to my GitHub! I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻
+</p>
 
 <p align="left">
   <img width="250" src="https://media.giphy.com/media/2cehsMpM3VxjbBB0TG/giphy.gif">
 </p>
 
-</br>
-<h3>🧰 Languages and Tools</h3>
+<h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,9 +16,6 @@ If you don’t find me in front of my computer, I must be jogging around one of 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-
-</br>
-<h3>📊 Github Stats and Activity</h3>
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
