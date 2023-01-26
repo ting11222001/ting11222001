@@ -17,7 +17,7 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
-</br>
+#
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -25,9 +25,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
-  </p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ting11222001&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
