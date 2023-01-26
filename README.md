@@ -1,10 +1,9 @@
-<h4 align="center"><samp> Hi there 👋  Welcome to my GitHub! I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻 </samp></h4>
+### Hi there 👋  Welcome to my GitHub! I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻 </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/2cehsMpM3VxjbBB0TG/giphy.gif">
 </p>
 
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -14,9 +13,6 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-
-
-<p align="center"><samp> Check out my repos ⬇️ </samp></p>
 
 <!--
 **ting11222001/ting11222001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
