@@ -1,6 +1,8 @@
-### Hi there 👋  Welcome to my GitHub! I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻 </samp></h4>
+# 👑 Li-Ting Liao
 
-<p align="center">
+Hi there 👋  Welcome to my GitHub! I'm a bold technology explorer, a resilient hands-on developer, and a jogging enthusiast. If you don’t find me in front of my computer, I must be jogging around one of the parklands in Adelaide. 🏃‍♀️ 💻 </samp></h4>
+
+<p align="left">
   <img width="250" src="https://media.giphy.com/media/2cehsMpM3VxjbBB0TG/giphy.gif">
 </p>
 
