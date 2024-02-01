@@ -20,12 +20,6 @@
 
 <br></br>
 
-<h2>📊 Stats</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="left">
-  <img alt="ting11222001's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ting11222001&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/>
-</div>
-
 
 
 
