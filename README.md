@@ -1,6 +1,6 @@
 ## Hey, I'm Li-Ting
 
-Full-stack engineer based in Adelaide.
+Full-stack developer based in Adelaide.
 I'm obsessed with building clean, functional web apps.
 
 I'm working on:
