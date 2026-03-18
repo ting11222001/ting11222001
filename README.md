@@ -4,8 +4,8 @@ Full-stack engineer based in Adelaide.
 I'm obsessed with building clean, functional web apps.
 
 I'm working on:
-- **[Thriveful](link)** — a mental health counselling booking platform
-- **[TechBridge Invoice](link)** — invoice management app
+- **[Thriveful](link)**, a mental health counselling booking platform
+- **[TechBridge Invoice](link)**, an invoice management app
 
 When I'm not coding, I'm out running. 🏃‍♀️
 
