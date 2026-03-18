@@ -1,3 +1,14 @@
+## Hey, I'm Li-Ting
+
+Full-stack engineer based in Adelaide.
+I'm obsessed with building clean, functional web apps.
+
+Here's what I'm currently shipping:
+- **[Thriveful](link)** — a mental health counselling booking platform
+- **[TechBridge Invoice](link)** — invoice management app
+
+When I'm not coding, I'm out running. 🏃‍♀️
+
 <!--
 **ting11222001/ting11222001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
