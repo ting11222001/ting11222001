@@ -4,7 +4,7 @@ Full-stack developer based in Adelaide.
 I'm obsessed with building clean, functional web apps.
 
 I'm working on:
-- **[Thriveful](link)**, a mental health counselling booking platform
+- **[Thriveful](https://github.com/ting11222001/Thriveful)**, a mental health counselling booking platform
 - **[TechBridg-Invoice](https://github.com/ting11222001/TechBridge-Invoice-app)**, an invoice management app
 
 When I'm not coding, I'm out running. 🏃‍♀️
